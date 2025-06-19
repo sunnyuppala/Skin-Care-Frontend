@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Button } from '@/components/ui/button';
-import geroooo from './images/geroooo.jpg';
+import geroooo from './Images/geroooo.jpg';
 
 const Hero = () => {
   const textRef = useRef<HTMLParagraphElement>(null);
