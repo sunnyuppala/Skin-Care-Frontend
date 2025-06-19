@@ -1,5 +1,5 @@
 import React from 'react';
-import photo1 from './images/photo-1629940446512-e0f1edd3f8e2.avif';
+import photo1 from './Images/photo-1629940446512-e0f1edd3f8e2.avif';
 
 const features = [
   {
